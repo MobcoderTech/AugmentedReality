@@ -1,2 +1,2 @@
 # AugmentedReality
-A beginner guide to AugmentedRreality Swift 3.0
+A beginner guide on Augmented Reality Swift 4.0 with Xcode 9.0
